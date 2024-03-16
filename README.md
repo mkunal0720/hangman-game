@@ -10,13 +10,23 @@ This project is a simple implementation of the classic Hangman game. It is devel
 The Hangman game is a word guessing game where one player thinks of a word and the other player tries to guess it by suggesting letters within a certain number of guesses.
 
 
-# Date: 14-03-2024
+# Date: 16-03-2024 (5:49 pm)
+# Day 1:
 
 ## Project Manager Update:
-Today , I have given a task of making Hangman game to the developer. Telling him to create a user-friendly Hangman game using python.  
-Demands for game : 1. User friendly
-                   2. Easy to understand
-                   3. Attractive
+I have given a task of making Hangman game to the developer. Asking him for creating a game which fulfils my demands.
+Tasks 1: To create a early version of game for testing and understanding the playstyle of game. Asking for a simple version.
+Demands for game:
+1. Using python programmming language
+2. User friendly 
+3. Easy to understand
+4. Attractive
+
+
+
+
+
+## Developer Update: 
 
 
 
@@ -25,16 +35,10 @@ Demands for game : 1. User friendly
 
 
 
-## Developer Update:
 
+## Tester Update:
 
-
-
-
-
-
-
-## Tester Update
+   
 
 
 
