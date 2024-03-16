@@ -17,6 +17,7 @@ The Hangman game is a word guessing game where one player thinks of a word and t
 I have given a task of making Hangman game to the developer. Asking him for creating a game which fulfils my demands.
 
 Task 1: To create a early version of game for testing and understanding the playstyle of game. Asking for a simple version.
+
 Demands for game:
 1. Using python programmming language
 2. User friendly 
