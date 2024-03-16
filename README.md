@@ -45,6 +45,7 @@ From my side task 1 is completed.
 
 ## Tester Update:
 Developing a Hangman game is nice idea by project manger. I tested the game made by developer and it was very well working and it was simple to play. Well there are some issues I found in game and I demand for fixing them.
+
 Demands are:
 1. There was an issue to understand the number of letters so I want to fix the issue and make it easie to understand number of letters.
 2. Theme of game should be about countries, for user that would be more interesting and fun to play.
