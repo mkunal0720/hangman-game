@@ -29,6 +29,11 @@ Demands for game:
 
 
 ## Developer Update: 
+Updating the staus about project. The project is progressing well overall. As per your early requirments game has been prepared. Update about project:
+
+I've made significant progress on project making a basic structure of game using python programming language. The early version of game as per your requirements is working well.
+I have attached a file with name "Hangman Game". File contains the game code.
+From my side task 1 is completed.
 
 
 
