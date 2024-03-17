@@ -69,6 +69,12 @@ Looking forward for the update.
 
 
 
+## Developer Updates:
+
+Updating the status about project. I have updated the code as per requiremnets and also add human shape in this.
+here Version 3 of the game.
+
+
 
    
 
