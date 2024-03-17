@@ -54,6 +54,19 @@ Demands are:
 I hope in next version, game should be updated as per user requirements.
 
 
+## Developer Update:
+
+Updating the status about project. I have change the code as per requirements and demands given by the tester.
+Version 2 of game has been uploaded.
+
+## Tester Update:
+
+Tested the updated version of game and it was working well and all issues are resolved.
+
+I have a suggestion that you should add some images to make game more attractive. Human shape structure that tell user about his lifelines left.
+
+Looking forward for the update.
+
 
 
 
