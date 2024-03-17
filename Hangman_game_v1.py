@@ -1,7 +1,18 @@
 import random
 
 def choose_word():
-    words = ["apple", "banana", "orange", "grape", "kiwi", "peach", "strawberry"]
+    words = [
+    "Afghanistan", "Armenia", "Azerbaijan", "Bahrain", "Bangladesh", 
+    "Bhutan", "Brunei", "Cambodia", "China", "Cyprus", "Georgia", 
+    "India", "Indonesia", "Iran", "Iraq", "Israel", "Japan", "Jordan", 
+    "Kazakhstan", "Kuwait", "Kyrgyzstan", "Laos", "Lebanon", "Malaysia", 
+    "Maldives", "Mongolia", "Myanmar (Burma)", "Nepal", "North Korea", 
+    "Oman", "Pakistan", "Palestine", "Philippines", "Qatar", "Russia", 
+    "Saudi Arabia", "Singapore", "South Korea", "Sri Lanka", "Syria", 
+    "Taiwan", "Tajikistan", "Thailand", "Timor-Leste (East Timor)", 
+    "Turkey", "Turkmenistan", "United Arab Emirates", "Uzbekistan", 
+    "Vietnam", "Yemen"
+]
     return random.choice(words)
 
 def display_word(word, guessed_letters):
@@ -11,6 +22,7 @@ def display_word(word, guessed_letters):
             displayed_word += letter
         else:
             displayed_word += "_"
+            displayed_word += " "
     return displayed_word
 
 def hangman():
