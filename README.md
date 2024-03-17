@@ -54,6 +54,11 @@ Demands are:
 I hope in next version, game should be updated as per user requirements.
 
 
+## Developer Update:
+
+updating the status about project . I have change the code as per requirements and demands given by the tester.
+Version 2 of game has been uploaded
+
 
 
 
