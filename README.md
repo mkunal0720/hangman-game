@@ -74,13 +74,9 @@ Looking forward for the update.
 Updating the status about project. I have updated the code as per requiremnets and also add human shape in this.
 here Version 3 of the game.
 
-## Tester Update:
 
-I have tested the game and it was working well. It was user-friendly and attractive. Hence this is the final version of the game.
 
-## Project Manager Update:
-
-Final version of the game is uploaded. Thank you all for your work. Loved working with you all.  
+  
 
 
 
