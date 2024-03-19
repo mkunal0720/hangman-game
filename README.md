@@ -1,8 +1,8 @@
 # Hangman Game Project 
 This project is a simple implementation of the classic Hangman game. It is developed using python programing.
 
-# Project Team
-- Projecthttps://github.com/mkunal0720/hangman-game/pulls Manager:- Jashan Singh(2310990698)
+# Project Team Name "Developers"
+- Project Manager:- Jashan Singh(2310990698)
 - Lead Developer:- Kunal Mittal(2310990720)
 - Lead Tester:- Jashan Singh(2310990698) & Kunal Mittal(2310990720)
 
