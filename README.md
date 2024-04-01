@@ -75,6 +75,9 @@ Updating the status about project. I have updated the code as per requiremnets a
 here Version 3 of the game.
 
 
+# Project Manager Update :
+
+Version 3 of game is working good. I want a better version that will interactive and eye pleasing by adding interface using tkinter.
 
   
 
