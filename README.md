@@ -83,7 +83,9 @@ Version 3 of game is working good. I want a better version that will interactive
 
 I have updated the code with all the requirements made by project manager.
 
+## Tester Update
 
+I tested the latest version of the game, and it's functioning smoothly with all issues resolved. Everything has been fixed, and it's working perfectly now.
   
 
 
