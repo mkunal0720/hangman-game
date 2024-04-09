@@ -85,7 +85,7 @@ I have updated the code with all the requirements made by project manager.
 
 ## Tester Update
 
-I tested the latest version of the game, and it's functioning smoothly with all issues resolved. Everything has been fixed, and it's working perfectly now.
+After testing the newest version of the game, I can confirm that it's running smoothly without any issues. I inputted various words, and the results were flawless. All problems have been addressed, and the game is now operating perfectly.
   
 
 
