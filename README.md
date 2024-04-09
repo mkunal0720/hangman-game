@@ -79,6 +79,11 @@ here Version 3 of the game.
 
 Version 3 of game is working good. I want a better version that will interactive and eye pleasing by adding interface using tkinter.
 
+## Developer Updates:
+
+I have updated the code with all the requirements made by project manager.
+
+
   
 
 
